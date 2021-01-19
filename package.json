@@ -1,0 +1,22 @@
+{
+  "name": "roverwifi",
+  "version": "1.0.0",
+  "description": "Controls of Raspberry Pi and Arduino robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dlugi03/RoverWifi.git"
+  },
+  "author": "Dlugi 03",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dlugi03/RoverWifi/issues"
+  },
+  "homepage": "https://github.com/Dlugi03/RoverWifi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
